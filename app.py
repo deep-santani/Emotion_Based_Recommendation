@@ -7,7 +7,7 @@ from flask import Flask, render_template, request
 #from googleapiclient.discovery import build
 from apiclient.discovery import build
 
-api_key ="AIzaSyCf2Yoff3AWC09fQFS7dfSgcVcUTPUVKWk"
+api_key ="----use your api key here---"
 yotube = build('youtube','v3',developerKey=api_key)
 
 app = Flask(__name__)
