@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Tue Mar 30 16:16:20 2021
-
-@author: Deep0p & Meet0p
 """
 
 from flask import Flask, render_template, request
